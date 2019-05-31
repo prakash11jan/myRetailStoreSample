@@ -4,6 +4,7 @@ Technology stack used:
 2.cassandra
 3.spring rest template
 4.apache-tomcat-7.0.85 
+5.maven
 
 installation needed:
 1.apache-cassandra-3.11.4
