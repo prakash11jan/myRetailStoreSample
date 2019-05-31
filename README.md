@@ -27,7 +27,7 @@ installation needed:
  
  Accesing Application:
   1.hit the following url
-	GET : http://localhost:8080/myretail/product/13860428
+	GET : http://localhost:8080/myretail/product/13860428 (please Refer GetProductResponseSample.PNG)
 	
 	Response:
 			{
@@ -41,7 +41,7 @@ installation needed:
 			}
 			
 	2. updating price from 200 USD to 100 USD:	
-		PUT: http://localhost:8080/myretail/product/13860428   set Content-Type:application/json
+		PUT: http://localhost:8080/myretail/product/13860428   set Content-Type:application/json (Please Refer UpdatePriceSample.PNG)
 				Request body:
 				{
 					"product_id":"13860428",
